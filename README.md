@@ -1,4 +1,4 @@
-# AI-Studio-项目标题
+# AI-Studio-飞桨常规赛：2021 3月第3名方案
 
 ## 项目描述
 简要描述项目
@@ -8,7 +8,7 @@
 -|data
 -|work
 -README.MD
--xxx.ipynb
+-89.252.ipynb
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
